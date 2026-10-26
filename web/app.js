@@ -78,7 +78,7 @@ function home() {
     <p class="section-note">Jede Spalte ist eine Zielgruppe, jedes Feld ein Lernpfad mit Schritten zum Abhaken. Die Haken bleiben in diesem Browser gespeichert.</p>
     ${timetable()}
     <section class="principles">
-      <div><h3>Für den DBG-Alltag gedacht</h3><p>Pfade orientieren sich am Bildungsplan 2016 und an der G9-Stundentafel in Baden-Württemberg, mit Fächern wie NwT, IMP und dem Aufbaukurs Informatik.</p></div>
+      <div><h3>Passend zum Bildungsplan</h3><p>Die Pfade orientieren sich am Bildungsplan 2016 und am neuen G9 in Baden-Württemberg, mit Fächern wie Informatik und Medienbildung, NwT und den Profilfächern.</p></div>
       <div><h3>Rechtssicher statt einfach drauflos</h3><p>Datenschutz, Urheberrecht, Altersgrenzen und Prüfungsrecht sind eigene Schritte. Der <a href="#info/recht">Rechtsrahmen</a> fasst den Stand für BW mit Quellen zusammen.</p></div>
       <div><h3>Selbst bauen</h3><p>In der <a href="#werkstatt">Werkstatt</a> trainieren Kinder eigene Modelle mit Calliope mini, LEGO SPIKE oder Arduino. Für jedes Projekt gibt es eine Variante ohne Hardware-Kauf.</p></div>
     </section>
