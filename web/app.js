@@ -66,6 +66,16 @@ function continueTarget() {
   return null;
 }
 
+// Kurzfassung der Familien aus docs/KI-LANDKARTE.md für die Startseite.
+const kiFamilies = [
+  ['Suchen und planen', 'Navi, Schachcomputer, Fahrpläne'],
+  ['Aus Daten lernen', 'Spamfilter, Empfehlungen, Wettervorhersage'],
+  ['Wahrnehmen', 'Gesichtsentsperrung, Spracherkennung, Fitnessarmband'],
+  ['Erzeugen', 'Texte, Bilder, Übersetzungen, Musik', true],
+  ['Handeln', 'Mähroboter, Industrieroboter, Software-Agenten'],
+  ['Entdecken', 'Proteinstrukturen, Klimamodelle, Astronomie'],
+];
+
 function home() {
   const next = continueTarget();
   main.innerHTML = `<div class="sheet home">
@@ -77,6 +87,10 @@ function home() {
     <h2 class="section-title">Der Stundenplan</h2>
     <p class="section-note">Jede Spalte ist eine Zielgruppe, jedes Feld ein Lernpfad mit Schritten zum Abhaken. Die Haken bleiben in diesem Browser gespeichert.</p>
     ${timetable()}
+    <h2 class="section-title">KI ist mehr als ChatGPT</h2>
+    <p class="section-note">Chatbots sind nur eine von sechs Familien. Die meiste KI im Alltag schreibt keine Texte, sondern erkennt, sortiert, plant oder steuert. Die Pfade decken alle Familien ab, die Werkstatt vor allem die, über die selten gesprochen wird.</p>
+    <ul class="ki-map">${kiFamilies.map(([name, examples, chatbots]) => `<li${chatbots ? ' class="chatbots"' : ''}><strong>${name}</strong><span>${examples}</span>${chatbots ? '<em>Hier wohnen die Chatbots</em>' : ''}</li>`).join('')}</ul>
+    <p><a href="#info/ki-landkarte">Zur KI-Landkarte mit Beispielen und drei Fragen, die man jeder KI stellen kann</a></p>
     <section class="principles">
       <div><h3>Passend zum Bildungsplan</h3><p>Die Pfade orientieren sich am Bildungsplan 2016 und am neuen G9 in Baden-Württemberg, mit Fächern wie Informatik und Medienbildung, NwT und den Profilfächern.</p></div>
       <div><h3>Rechtssicher statt einfach drauflos</h3><p>Datenschutz, Urheberrecht, Altersgrenzen und Prüfungsrecht sind eigene Schritte. Der <a href="#info/recht">Rechtsrahmen</a> fasst den Stand für BW mit Quellen zusammen.</p></div>

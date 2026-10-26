@@ -112,6 +112,13 @@ th { background: var(--c-grund); color: var(--tinte-dark); font-weight: 650; }
 .lesson-eltern { background: var(--c-eltern); border-left-color: #9a6fc8; }
 .lesson-list { display: flex; flex-direction: column; gap: 6px; max-width: 46rem; }
 .lesson-list.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); max-width: none; }
+/* KI-Landkarte: sechs Familien, die Chatbots darin markiert wie mit Textmarker */
+.ki-map { list-style: none; padding: 0; margin: 18px 0 12px; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); border-top: 2px solid var(--tinte); border-left: 1px solid var(--line); background: #fff; }
+.ki-map li { padding: 14px 16px; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); display: flex; flex-direction: column; gap: 4px; }
+.ki-map strong { font-family: var(--serif); font-size: 1.08rem; color: var(--tinte-dark); }
+.ki-map span { font-size: .92rem; }
+.ki-map .chatbots strong { background: linear-gradient(transparent 55%, var(--marker) 55%); align-self: flex-start; }
+.ki-map em { color: var(--rand); font-size: .85rem; font-weight: 600; }
 .principles { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 32px; margin-top: 48px; }
 .principles h3 { margin-bottom: .4em; }
 .principles p { color: var(--ink); font-size: .96rem; }
@@ -196,6 +203,7 @@ th { background: var(--c-grund); color: var(--tinte-dark); font-weight: 650; }
   .tt-col { border-right: 0; border-bottom: 2px solid var(--tinte); }
   .tt-col:last-child { border-bottom: 0; }
   .principles { grid-template-columns: 1fr; gap: 8px; }
+  .ki-map { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .sheet { padding: 32px 16px 48px calc(var(--margin) + 14px); }
   .step .margin { left: calc(-1 * (var(--margin) + 14px) + 2px); width: calc(var(--margin) - 8px); font-size: 1.05rem; }
   .step { grid-template-columns: 1fr; gap: 8px; }

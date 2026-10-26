@@ -37,7 +37,7 @@ export function makePlan(data, answers) {
     if (answers.interesse === 'wettbewerb' && grade >= 8) add('S3', 'Wettbewerbe und Vertiefung, wenn du schneller weiter willst.');
   } else if (answers.rolle === 'eltern') {
     const wishes = answers.anliegen?.length ? answers.anliegen : ['verstehen', 'begleiten', 'sicherheit'];
-    if (wishes.includes('verstehen')) add('E1', 'In zwei Stunden verstehen, was hinter ChatGPT und Co. steckt.');
+    if (wishes.includes('verstehen')) add('E1', 'Verstehen, was KI ist: vom Navi über den Feed bis zum Chatbot.');
     if (wishes.includes('begleiten')) add('E2', 'Lernen mit KI begleiten: Hausaufgaben, Regeln, Gespräche.');
     if (wishes.includes('sicherheit')) add('E3', 'Deepfakes, Betrug und KI-Begleiter: Risiken erkennen und handeln.');
     if (answers.klasse) add(answers.klasse, 'Zum Mitlesen: was Ihr Kind in seiner Stufe lernen kann.');

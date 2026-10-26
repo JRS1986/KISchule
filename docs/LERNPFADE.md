@@ -7,18 +7,19 @@ Jeder Pfad hat eine Handvoll Schritte zum Abhaken, einen **Abschluss-Check** und
 **Lehrkräfte** beginnen mit den Grundlagen L1 bis L4 und wählen dann ihr Fach. L5 ist für Schulleitung, Steuergruppe und die KI-Gruppe des Kollegiums. **Schülerinnen und Schüler** wählen den Pfad ihrer Klassenstufe, dazu passende Projekte aus der [Werkstatt](WERKSTATT.md). **Eltern** brauchen kein Vorwissen.
 
 ## L1 KI verstehen
-<!-- zielgruppe: lehrkraefte; bereich: Grundlagen für alle; kurz: Wie Sprachmodelle arbeiten, warum sie überzeugend falsch liegen und was die Forschung zu KI im Unterricht sagt. -->
+<!-- zielgruppe: lehrkraefte; bereich: Grundlagen für alle; kurz: Was alles KI ist, vom Spamfilter bis zum Sprachmodell, wie Maschinen lernen und was die Forschung zu KI im Unterricht sagt. -->
 
-**Für:** alle Lehrkräfte, unabhängig vom Fach. **Voraussetzungen:** keine. **Umfang:** 4 h.
+**Für:** alle Lehrkräfte, unabhängig vom Fach. **Voraussetzungen:** keine. **Umfang:** 4,5 h.
 
 | Schritt | Lernen oder üben | Stunden |
 |---|---|---:|
-| 1 | Selbsteinschätzung mit dem [KI-Kompetenzmodell](KATALOG.md#k17): In den Feldern Verstehen und Reflektieren das eigene Niveau markieren | 0,5 |
-| 2 | [Selbstlernkurs KI in der Schule](KATALOG.md#k05) des ZSL: Einführung, „Verstehen: Methodische Grundlagen“ und „Verantworten: Gesellschaftliche Implikationen“ | 2 |
-| 3 | [Schule macht KI](KATALOG.md#k13), Modul 1 zu Grundlagen von KI und maschinellem Lernen. Wer lieber ohne Konto lernt, nimmt die Kapitel 1 bis 3 von [Elements of AI](KATALOG.md#k54) | 1 |
-| 4 | Wissenschaftliche Einordnung: im [Impulspapier der SWK](KATALOG.md#k12) die Abschnitte zu Funktionsweise, Potenzialen und Grenzen | 0,5 |
+| 1 | Die [KI-Landkarte](KI-LANDKARTE.md) lesen: sechs Familien von KI, von Suchen und Planen bis Erzeugen. Zu jeder Familie ein Beispiel aus dem eigenen Fach oder Alltag notieren | 0,5 |
+| 2 | Selbsteinschätzung mit dem [KI-Kompetenzmodell](KATALOG.md#k17): In den Feldern Verstehen und Reflektieren das eigene Niveau markieren | 0,5 |
+| 3 | [Selbstlernkurs KI in der Schule](KATALOG.md#k05) des ZSL: Einführung, „Verstehen: Methodische Grundlagen“ und „Verantworten: Gesellschaftliche Implikationen“ | 2 |
+| 4 | [Schule macht KI](KATALOG.md#k13), Modul 1 zu Grundlagen von KI und maschinellem Lernen. Wer lieber ohne Konto lernt, nimmt die Kapitel 1 bis 3 von [Elements of AI](KATALOG.md#k54) | 1 |
+| 5 | Wissenschaftliche Einordnung: im [Impulspapier der SWK](KATALOG.md#k12) die Abschnitte zu Funktionsweise, Potenzialen und Grenzen | 0,5 |
 
-**Abschluss-Check:** Sie können in drei Sätzen erklären, warum ein Sprachmodell Dinge erfindet. Sie unterscheiden Chatbot, Lernsoftware mit Tutorfunktion und Suchmaschine. Und Sie kennen die drei Perspektiven: Wie funktioniert KI, wie nutze ich sie, wie wirkt sie?
+**Abschluss-Check:** Sie ordnen fünf Anwendungen aus dem Alltag den Familien der KI-Landkarte zu und erklären, warum Chatbots nur eine davon sind. Sie können in drei Sätzen erklären, warum ein Sprachmodell Dinge erfindet, ein Spamfilter aber anders irrt. Sie unterscheiden Chatbot, Lernsoftware mit Tutorfunktion und Suchmaschine. Und Sie kennen die drei Perspektiven: Wie funktioniert KI, wie nutze ich sie, wie wirkt sie?
 
 **Praxis:** Dieselbe Fachfrage aus Ihrem Unterricht an zwei Modelle in [AIS.chat](KATALOG.md#k07) stellen. Fehler und Unterschiede in einer Tabelle festhalten und in der Fachschaft zeigen.
 
@@ -284,7 +285,7 @@ Chats mit historischen Personen („Interview mit Luther“) lehnt das ISB ab, w
 
 | Schritt | Lernen oder üben | Stunden |
 |---|---|---:|
-| 1 | Was ist KI und was nicht? Die Filme 1 bis 3 von [Dennis und die KI](KATALOG.md#k47) mit Arbeitsblatt, dazu im [KI-Kurs](KATALOG.md#k50) das Modul „Woher kommt KI?“ mit dem Meilenstein-Memory | 2 |
+| 1 | Was ist KI und was nicht? Die Filme 1 bis 3 von [Dennis und die KI](KATALOG.md#k47) mit Arbeitsblatt, im [KI-Kurs](KATALOG.md#k50) das Modul „Woher kommt KI?“ mit dem Meilenstein-Memory, dann zehn KI-Anwendungen aus dem eigenen Alltag den Familien der [KI-Landkarte](KI-LANDKARTE.md) zuordnen | 2 |
 | 2 | Wie schreibt ChatGPT? [Sprachmodelle unplugged mit Grimms Märchen](KATALOG.md#k48) | 1 |
 | 3 | Einen Chatbot geschützt ausprobieren: ein Lernszenario der Lehrkraft in [AIS.chat](KATALOG.md#k07), zum Beispiel fünf Antworten mit einer zweiten Quelle prüfen, dazu das Projekt „KI als Lernbuddy“ aus [KI and me](KATALOG.md#k49) | 2 |
 | 4 | Ein eigenes Modell mit Steckbrief: die Einheit „Problemlösung mit KI“ aus [Experience AI](KATALOG.md#k46), Lektionen 3 bis 5, mit Teachable Machine oder Machine Learning for Kids | 4 |
@@ -318,21 +319,21 @@ Chats mit historischen Personen („Interview mit Luther“) lehnt das ISB ab, w
 **Studien- und Berufsorientierung in Klasse 12 und 13:** [OrientierungsTest](KATALOG.md#k157), Studieninfotag und Frühstudium an der [Universität Stuttgart](KATALOG.md#k154), die [Schnupperwoche in Tübingen](KATALOG.md#k155) und für besonders Interessierte der [Seminarkurs KI am Kepler-Seminar](KATALOG.md#k153).
 
 ## E1 KI verstehen ohne Technikvorwissen
-<!-- zielgruppe: eltern; bereich: Für Eltern; kurz: In zweieinhalb Stunden verstehen, was hinter ChatGPT und Co. steckt und was Ihr Kind damit macht. -->
+<!-- zielgruppe: eltern; bereich: Für Eltern; kurz: Verstehen, was KI ist, wo sie im Familienalltag längst steckt und was Chatbots davon sind. -->
 
-**Für:** alle Eltern, ganz ohne Vorwissen. **Voraussetzungen:** keine. **Umfang:** 2,5 h.
+**Für:** alle Eltern, ganz ohne Vorwissen. **Voraussetzungen:** keine. **Umfang:** 2,75 h.
 
 | Schritt | Lernen oder üben | Stunden |
 |---|---|---:|
-| 1 | Was ist KI überhaupt? Die Themenseite von [Elternguide.online](KATALOG.md#k86) lesen | 0,25 |
+| 1 | Was ist KI überhaupt? Die [KI-Landkarte](KI-LANDKARTE.md) mit ihren sechs Familien und die Themenseite von [Elternguide.online](KATALOG.md#k86) lesen | 0,5 |
 | 2 | Wie funktioniert ein Sprachmodell? [Terra X: Wie Computer denken lernen](KATALOG.md#k87) ansehen, 23 Minuten | 0,5 |
 | 3 | Was machen Jugendliche damit? Das KI-Kapitel der [JIM-Studie 2025](KATALOG.md#k84) überfliegen | 0,25 |
 | 4 | Selbst ausprobieren: Einem Chatbot drei Fragen stellen, eine Sachfrage, eine Fangfrage („Wie viele E hat Erdbeere?“) und eine Frage zu Ihrem Wohnort. Jede Antwort an einer zweiten Quelle prüfen. Vorher lesen, welche Daten nicht hineingehören ([Verbraucherzentrale](KATALOG.md#k88)) | 1 |
 | 5 | KI im Alltag sicher nutzen: die Empfehlungen des [BSI](KATALOG.md#k89) | 0,5 |
 
-**Abschluss-Check:** Sie können in zwei Sätzen erklären, warum ein Chatbot überzeugend klingen und trotzdem falsch liegen kann. Sie wissen, welche Daten Sie nie eingeben. Sie kennen mindestens zwei KI-Dienste, die Ihr Kind nutzt oder nutzen könnte.
+**Abschluss-Check:** Sie nennen drei Stellen, an denen KI in Ihrem Haushalt arbeitet, ohne Texte zu schreiben. Sie können in zwei Sätzen erklären, warum ein Chatbot überzeugend klingen und trotzdem falsch liegen kann. Sie wissen, welche Daten Sie nie eingeben. Sie kennen mindestens zwei KI-Dienste, die Ihr Kind nutzt oder nutzen könnte.
 
-**Praxis:** Ihr Kind zeigt Ihnen zehn Minuten lang, wofür es KI nutzt. Sie stellen nur Fragen und bewerten nicht.
+**Praxis:** Gemeinsam mit Ihrem Kind auf KI-Suche gehen: Handy entsperren, Navi, Streaming-Empfehlungen, Feed, Sprachassistent. Danach zeigt Ihr Kind Ihnen zehn Minuten lang, wofür es selbst KI nutzt. Sie stellen nur Fragen und bewerten nicht.
 
 ## E2 Kinder beim Lernen mit KI begleiten
 <!-- zielgruppe: eltern; bereich: Für Eltern; kurz: Hausaufgaben, Lernmodus, Elternkontrollen und eine KI-Familienregel, die alle verstehen. -->

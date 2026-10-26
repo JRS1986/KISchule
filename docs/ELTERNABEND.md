@@ -16,7 +16,7 @@ Beamer und WLAN, sechs bis acht Tablets oder die Geräte der Eltern, gedruckte B
 
 | Minute | Phase | Inhalt | Material |
 |---|---|---|---|
-| 0–10 | Ankommen | Handzeichen-Umfrage: „Mein Kind nutzt KI für …“ und drei Mythen („KI denkt selbst“, „KI weiß alles“, „KI ist neutral“) | ISB-Plan |
+| 0–10 | Ankommen | Handzeichen-Umfrage: „Mein Kind nutzt KI für …“ und vier Mythen („KI ist dasselbe wie ChatGPT“, „KI denkt selbst“, „KI weiß alles“, „KI ist neutral“). Bei der ersten zeigen: Gesichtsentsperrung, Navi und Feed sind auch KI | ISB-Plan |
 | 10–20 | Wo stehen unsere Kinder? | Drei Zahlen aus der [JIM-Studie 2025](KATALOG.md#k84): 84 % der 12- bis 19-Jährigen haben ChatGPT genutzt, 74 % der KI-Nutzenden setzen es für Hausaufgaben ein (am Gymnasium 79 %), 40 % der 12- bis 13-Jährigen nutzen Meta AI | JIM-Studie, Kapitel 13 |
 | 20–30 | Wie funktioniert das? | Fünf Minuten aus [Terra X: Wie Computer denken lernen](KATALOG.md#k87), dann eine Live-Demo, in der ein Chatbot sich verrechnet oder etwas erfindet | Video |
 | 30–55 | Ausprobieren an Stationen | (a) Chatbot im Lernmodus erklären lassen statt Lösung abschreiben. (b) Echt oder Fälschung? Bilder mit den Tipps der [Polizei](KATALOG.md#k90) prüfen. (c) Elternkontrollen ansehen mit [medien-kindersicher.de](KATALOG.md#k92). (d) Was gebe ich preis? Datenschutz-Check mit der [Verbraucherzentrale](KATALOG.md#k88) | Tablets |
